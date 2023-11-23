@@ -1,0 +1,45 @@
+POST http://localhost:3005/api/login
+Content-Type: application/json
+
+{
+    "username": "admin",
+    "password": "12345678"
+}
+
+###
+
+POST http://localhost:3005/api/register
+Content-Type: application/json
+
+{
+    "username": "kelvin",
+    "password": "12345678",
+    "email": "kelvin@safi.ai"
+}
+
+###
+
+GET http://localhost:3005/protected
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.a2Vsdmlu.FXUwbrjl13OfagvA3zrZHO3oKJM-GnKIWwIn8trJyZM
+
+###
+POST http://localhost:4000/api/login
+Content-Type: application/json
+
+{
+    "username" : "kelvin"
+}
+
+###
+
+GET http://localhost:3005/api/users 
+
+###
+POST http://localhost:3005/api/register 
+Content-Type: application/json
+
+{
+    "username": "sampleUser5",
+    "password": "qwerty1234",
+    "email": "sample200@gmail.com"
+}

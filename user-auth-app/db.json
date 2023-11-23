@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Rosendo.Kautzer93",
+      "email": "Rosemary_Dietrich82@hotmail.com",
+      "password": "gvLsithOe7mCxlK"
+    },
+    {
+      "id": 2,
+      "username": "Lexie_Kohler",
+      "email": "Orie.Russel27@gmail.com",
+      "password": "XtJMThAt35TpE8N"
+    },
+    {
+      "id": 3,
+      "username": "Alfreda.Shanahan10",
+      "email": "Pedro.Wilderman@hotmail.com",
+      "password": "5mTFmACjg9EztDq"
+    },
+    {
+      "id": 4,
+      "username": "Emmanuelle27",
+      "email": "Efren.Krajcik36@gmail.com",
+      "password": "UcD0Ll9ritlvlnd"
+    },
+    {
+      "id": 5,
+      "username": "Oda_Spinka",
+      "email": "Mary.Watsica21@yahoo.com",
+      "password": "PNH4Ufiz7qtvrDm"
+    },
+    {
+      "id": 6,
+      "username": "Marquise36",
+      "email": "Bria91@yahoo.com",
+      "password": "ob9lcxC5B23s6yu"
+    },
+    {
+      "id": 7,
+      "username": "Madilyn_Aufderhar23",
+      "email": "Constantin.Ferry@gmail.com",
+      "password": "wThYz8S8zfNW4Lk"
+    },
+    {
+      "id": 8,
+      "username": "Ana4",
+      "email": "Robert_Nolan73@gmail.com",
+      "password": "7Q2k01da2Ral12c"
+    },
+    {
+      "id": 9,
+      "username": "Raegan.Lind",
+      "email": "Breanne_Reilly76@yahoo.com",
+      "password": "v4uOSEZksQNXoOj"
+    },
+    {
+      "email": "sample@gmail.com",
+      "username": "sampleUser",
+      "password": "123qwerty",
+      "id": 10
+    }
+  ]
+}
